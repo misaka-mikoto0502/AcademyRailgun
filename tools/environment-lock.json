@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-21",
+  "minecraft": "1.21.1",
+  "neoforge": "21.1.264",
+  "modDevGradle": "2.0.148",
+  "gradle": "9.2.1",
+  "jdk": "Temurin 21.0.12.1+1",
+  "mdkCommit": "f7002b1b6011723c7b12fde95147689491a6ddab",
+  "generatedSourceJar": "E:\\Dev\\RailgunMod\\platform-probes\\neoforge-1.21.1\\build\\moddev\\artifacts\\neoforge-21.1.264-sources.jar",
+  "generatedSourceSha256": "EFBD37A15F25977A394FB1FED9FE9D93F401E1ADD71209F98B8C1338662202F9",
+  "verified": [
+    "prototype core scenarios",
+    "MDK build",
+    "data launch with no custom providers",
+    "client run preparation",
+    "server run preparation"
+  ],
+  "notVerified": [
+    "graphical client world entry",
+    "dedicated server startup",
+    "theme abilities"
+  ]
+}

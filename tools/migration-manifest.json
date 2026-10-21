@@ -1,0 +1,175 @@
+{
+  "migratedOn": "2026-10-21",
+  "method": "copy without deleting the original",
+  "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework",
+  "destination": "E:\\Dev\\RailgunMod",
+  "excluded": [
+    ".build",
+    ".minecraft",
+    "Office temporary lock files",
+    "old mod jars",
+    "old saves and configs"
+  ],
+  "files": [
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\docs\\architecture.md",
+      "destination": "E:\\Dev\\RailgunMod\\docs\\architecture.md",
+      "sha256": "71D34260409125FC1CDF3AFE9596DB4393AB601061592A5FF1818FE9A077FA4E"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\docs\\project-research.md",
+      "destination": "E:\\Dev\\RailgunMod\\docs\\project-research.md",
+      "sha256": "E14F16B3117DAEE45B094C3834EDEE559D17788021A16A11324F5907946A7DA0"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\docs\\learning\\01-java-and-build.md",
+      "destination": "E:\\Dev\\RailgunMod\\docs\\learning\\01-java-and-build.md",
+      "sha256": "30BD4F903BEB2EF7379B3270EDED953CE7C47A8A511833EAD15F0FEC0C670F35"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\docs\\learning\\02-minecraft-runtime.md",
+      "destination": "E:\\Dev\\RailgunMod\\docs\\learning\\02-minecraft-runtime.md",
+      "sha256": "2848870F32571F817BE4E75E75C08A9D5665B21C9AAED38AA621C0B5DFDAE40C"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\docs\\learning\\03-forge-mechanisms.md",
+      "destination": "E:\\Dev\\RailgunMod\\docs\\learning\\03-forge-mechanisms.md",
+      "sha256": "A1AA94BD402917E86547046FE5730F3854A9CE5D054CC98E6C1D7E4A95D8CC00"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\docs\\learning\\04-version-and-porting.md",
+      "destination": "E:\\Dev\\RailgunMod\\docs\\learning\\04-version-and-porting.md",
+      "sha256": "924649CE52841F797C90DDD9F7C26764342BE3DCD872820F16BEDB8FD9F4677F"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\docs\\learning\\05-mod-source-cases.md",
+      "destination": "E:\\Dev\\RailgunMod\\docs\\learning\\05-mod-source-cases.md",
+      "sha256": "94B15A96D2AB08DDB85C638C1AC7D9E4B2FB26B69F5A6747F1A5453D02795BC7"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\docs\\learning\\06-project-implications.md",
+      "destination": "E:\\Dev\\RailgunMod\\docs\\learning\\06-project-implications.md",
+      "sha256": "803ECE77666A3DE2A9CA432DB61B0E802CAB1D9B4E795A35204C11C17CC4260E"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\docs\\learning\\README.md",
+      "destination": "E:\\Dev\\RailgunMod\\docs\\learning\\README.md",
+      "sha256": "4D74CF3F7EC4CE78FAE4D922C5DE2EC9DA1E19AE926CFF415158B3D39A1D47A0"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\docs\\learning\\source-pins.json",
+      "destination": "E:\\Dev\\RailgunMod\\docs\\learning\\source-pins.json",
+      "sha256": "8C809DD004EE2A7F9D803EEAE6BE499CC5EE903DF7E12C2ED5917073F42E49F8"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\docs\\learning\\sources.md",
+      "destination": "E:\\Dev\\RailgunMod\\docs\\learning\\sources.md",
+      "sha256": "036384AD9FDF3CB8518C80BE42BC5D4AD82996F8836F12D7F6B472B0EC21B3E8"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\docs\\design\\炮姐模组开发边界与版本要求-layout.json",
+      "destination": "E:\\Dev\\RailgunMod\\docs\\design\\炮姐模组开发边界与版本要求-layout.json",
+      "sha256": "9884CDE4304A719DFD29F3169D85F0FD8852064231363CC60C1D5F22BF105FBF"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\docs\\design\\炮姐模组开发边界与版本要求.docx",
+      "destination": "E:\\Dev\\RailgunMod\\docs\\design\\炮姐模组开发边界与版本要求.docx",
+      "sha256": "D94DB8706E2A862E10A7A6A5A493DEC2C718AD512AD3086E8835C2AFE4E44287"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\docs\\design\\炮姐主题模组十种玩法方案调研.docx",
+      "destination": "E:\\Dev\\RailgunMod\\docs\\design\\炮姐主题模组十种玩法方案调研.docx",
+      "sha256": "60E3F548C37A7F4FC9C8CF81DF18A1D0147471CA5A923815AE63CDB169FB4DFB"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\docs\\design\\build_report.py",
+      "destination": "E:\\Dev\\RailgunMod\\docs\\design\\build_report.py",
+      "sha256": "CA91974599E949483EA0D48D97B4C8DDC9DA9AD7C5634445D1D06AB79647EBD5"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\docs\\design\\layout-plan.json",
+      "destination": "E:\\Dev\\RailgunMod\\docs\\design\\layout-plan.json",
+      "sha256": "95289F3554C3BBE71E454A0C5FEB44FC731E0EF69459A2D2E0C1ABA68287C34F"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\docs\\design\\project-boundaries.md",
+      "destination": "E:\\Dev\\RailgunMod\\docs\\design\\project-boundaries.md",
+      "sha256": "2D42F7FA229EC0B34A3116A6581DA240BA4E776CAA978B5EAC12866D456C3402"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\docs\\design\\README.md",
+      "destination": "E:\\Dev\\RailgunMod\\docs\\design\\README.md",
+      "sha256": "931FA8A21DFA845C3F01B2CBDC5A953D0ADB7C5CDAB4083EA2A8EDCC46173C79"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\docs\\design\\research-content.md",
+      "destination": "E:\\Dev\\RailgunMod\\docs\\design\\research-content.md",
+      "sha256": "9B6E3BFFC8D6C1DAD1F942BFB3F49A45D44C9951E08DB7BB2EB2831F3255ED89"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\src\\main\\java\\dev\\railgun\\core\\AbilityDefinition.java",
+      "destination": "E:\\Dev\\RailgunMod\\prototype-core\\src\\main\\java\\dev\\railgun\\core\\AbilityDefinition.java",
+      "sha256": "B985DD03BA34FCB6528B5D62E814762E480F674934D4EC7ECCF95A548DFB0BA4"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\src\\main\\java\\dev\\railgun\\core\\AbilityEngine.java",
+      "destination": "E:\\Dev\\RailgunMod\\prototype-core\\src\\main\\java\\dev\\railgun\\core\\AbilityEngine.java",
+      "sha256": "81C426B0DBAA5974B72AF45EA947B5CB4D27783073A8C47E177FED0711FB6A7A"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\src\\main\\java\\dev\\railgun\\core\\Catalog.java",
+      "destination": "E:\\Dev\\RailgunMod\\prototype-core\\src\\main\\java\\dev\\railgun\\core\\Catalog.java",
+      "sha256": "C6D46E0B9BC8FA784C01E580BC147A4C94C81334B4BA2C95FE104ACBF14F5AF7"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\src\\main\\java\\dev\\railgun\\core\\EffectIntent.java",
+      "destination": "E:\\Dev\\RailgunMod\\prototype-core\\src\\main\\java\\dev\\railgun\\core\\EffectIntent.java",
+      "sha256": "079E1E4BC81105D85FA32FFDF6EE4C9B9B0171AB907EF1066974255859888B7C"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\src\\main\\java\\dev\\railgun\\core\\GameAdapters.java",
+      "destination": "E:\\Dev\\RailgunMod\\prototype-core\\src\\main\\java\\dev\\railgun\\core\\GameAdapters.java",
+      "sha256": "0F1520A2B65F3A6F7E23B106756D9CB00500156CEA736F01118C3C392E2D7A52"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\src\\main\\java\\dev\\railgun\\core\\Ids.java",
+      "destination": "E:\\Dev\\RailgunMod\\prototype-core\\src\\main\\java\\dev\\railgun\\core\\Ids.java",
+      "sha256": "D19BE4025E71AB0261DC88A2FEA2AD9DBA96687FF4A0C6F2C8C91B86D74598FE"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\src\\main\\java\\dev\\railgun\\core\\Outcome.java",
+      "destination": "E:\\Dev\\RailgunMod\\prototype-core\\src\\main\\java\\dev\\railgun\\core\\Outcome.java",
+      "sha256": "E277EAD1C4FAEDE3993C63F8A9C4DA1933A1A4DDFBE5F9BDF1977762C0EF66BB"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\src\\main\\java\\dev\\railgun\\core\\PlayerState.java",
+      "destination": "E:\\Dev\\RailgunMod\\prototype-core\\src\\main\\java\\dev\\railgun\\core\\PlayerState.java",
+      "sha256": "49B37B01E28A32ADD818BC58F2E9306FBD1DD3A8D53F9584D08A9D868986AFE4"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\src\\main\\java\\dev\\railgun\\core\\ProfileDefinition.java",
+      "destination": "E:\\Dev\\RailgunMod\\prototype-core\\src\\main\\java\\dev\\railgun\\core\\ProfileDefinition.java",
+      "sha256": "6B2D7B3A32122213DAC5CA9D838B598AEE26F6552B7CFCFCA001313488EA0C34"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\src\\main\\java\\dev\\railgun\\core\\Rules.java",
+      "destination": "E:\\Dev\\RailgunMod\\prototype-core\\src\\main\\java\\dev\\railgun\\core\\Rules.java",
+      "sha256": "8B88DE913E666DF6E854026B1755FB75A3DE2C20A3F940957B7FD07863F495E4"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\src\\test\\java\\dev\\railgun\\verification\\FrameworkScenario.java",
+      "destination": "E:\\Dev\\RailgunMod\\prototype-core\\src\\test\\java\\dev\\railgun\\verification\\FrameworkScenario.java",
+      "sha256": "FA579728362091A7FED8301CC799DB9C6591B19346AE02BEE283486863FB230F"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\verify.ps1",
+      "destination": "E:\\Dev\\RailgunMod\\prototype-core\\verify.ps1",
+      "sha256": "B05BCD4E34A918728A283FBF1A1249567FDB26C439A332D10F7E56DB39253999"
+    },
+    {
+      "source": "E:\\Game\\PCL II\\某科学的魔花物语-by骑士空\\railgun-framework\\README.md",
+      "destination": "E:\\Dev\\RailgunMod\\docs\\history\\framework-readme-before-migration.md",
+      "sha256": "B1933F412645621E071A7630DD27C963A652F914C205ACDEA49893AEB7D6AEFC"
+    }
+  ]
+}

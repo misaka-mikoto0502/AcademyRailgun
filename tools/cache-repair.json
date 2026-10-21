@@ -1,0 +1,7 @@
+{
+  "date": "2026-10-21",
+  "reason": "Gradle reported CorruptedCacheException in file-access journal",
+  "from": "E:\\Dev\\RailgunMod\\.gradle-user-home\\caches\\journal-1",
+  "preservedAt": "E:\\Dev\\RailgunMod\\.tools\\cache-quarantine\\journal-1-20261021",
+  "dependenciesPreserved": true
+}

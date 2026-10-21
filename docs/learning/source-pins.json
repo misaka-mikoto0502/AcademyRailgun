@@ -1,0 +1,89 @@
+{
+  "checkedOn": "2026-10-21",
+  "purpose": "Read-only study of selected source regions; no third-party code executed or copied into the core.",
+  "repositories": [
+    {
+      "repository": "Creators-of-Create/Create",
+      "branch": "mc1.20.1/dev",
+      "commit": "588124239141029c5321afd38d20c2eaf872b32b",
+      "minecraft": "1.20.1",
+      "forgeBuildInProperties": "47.1.33",
+      "buildEvidencePath": "gradle.properties",
+      "files": [
+        {
+          "path": "src/main/java/com/simibubi/create/content/kinetics/KineticNetwork.java",
+          "observed": "Membership, dirty notification, aggregate calculation and member updates; lines 58-162. Not the entire topology implementation."
+        }
+      ]
+    },
+    {
+      "repository": "VazkiiMods/Botania",
+      "branch": "1.20.x",
+      "commit": "0ddec883d6ec4c7be78525267e29cbf1bd98c672",
+      "minecraft": "1.20.1",
+      "platformLayoutObserved": ["Xplat", "Forge", "Fabric"],
+      "buildEvidencePath": "gradle.properties",
+      "files": [
+        {
+          "path": "Xplat/src/main/java/vazkii/botania/common/impl/mana/ManaItemHandlerImpl.java",
+          "observed": "Mana operations and requestManaExact; detailed reading of lines 109-150."
+        }
+      ]
+    },
+    {
+      "repository": "AppliedEnergistics/Applied-Energistics-2",
+      "branch": "forge/1.20.1",
+      "commit": "1c2f96e70ca6b61e8120482923e9775d772fd9e7",
+      "minecraft": "1.20.1",
+      "forgeBuildInProperties": "47.1.47",
+      "buildEvidencePath": "gradle.properties",
+      "files": [
+        {
+          "path": "src/main/java/appeng/me/Grid.java",
+          "observed": "Service lookup, node add/remove/save notifications and tick dispatch."
+        },
+        {
+          "path": "src/main/java/appeng/me/GridNode.java",
+          "observed": "Connection lifecycle, validation, destroy, persistence and grid split references. Full channel/path algorithms not reviewed."
+        }
+      ]
+    },
+    {
+      "repository": "mekanism/Mekanism",
+      "branch": "1.20.x",
+      "commit": "96c736241e308a9cf1c73f7dcfa9aa221ea559d3",
+      "minecraft": "1.20.1",
+      "javaInProperties": "17",
+      "forgeBuildInProperties": "47.1.76",
+      "buildEvidencePath": "gradle.properties",
+      "files": [
+        {
+          "path": "src/main/java/mekanism/common/network/BasePacketHandler.java",
+          "observed": "Protocol construction, direction-specific registration, encoding helpers and recipient routing. Individual packet authorization not reviewed."
+        }
+      ]
+    },
+    {
+      "repository": "baileyholl/Ars-Nouveau",
+      "branch": "1.20",
+      "commit": "2c74064bc753600d9b6600f102f8163e2d6764dd",
+      "minecraft": "1.20.1",
+      "forgeBuildInProperties": "47.1.64",
+      "buildEvidencePath": "gradle.properties",
+      "files": [
+        {
+          "path": "src/main/java/com/hollingsworth/arsnouveau/api/spell/SpellResolver.java",
+          "observed": "Validation, mana checks, cast result-dependent consumption, resolve loop and events; detailed reading of lines 54-107."
+        },
+        {
+          "path": "src/main/java/com/hollingsworth/arsnouveau/api/spell/SpellContext.java",
+          "observed": "Caster/context state, child context creation, cancellation and delay; detailed reading of lines 111-137."
+        },
+        {
+          "path": "src/main/java/com/hollingsworth/arsnouveau/api/spell/AbstractSpellPart.java",
+          "observed": "Identity, casting cost, cancellation hooks and configuration extension points."
+        }
+      ]
+    }
+  ]
+}

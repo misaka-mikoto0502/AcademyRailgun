@@ -1,0 +1,14 @@
+{
+  "repository": "https://github.com/NeoForgeMDKs/MDK-1.21.1-ModDevGradle",
+  "commit": "f7002b1b6011723c7b12fde95147689491a6ddab",
+  "downloadedOn": "2026-10-21",
+  "archiveSha256": "3A72ACBCC32C028B42014EBED2962DC9498ED493BB8883C7F97C4E310E439167",
+  "role": "technical probe, not final game design",
+  "localModifications": [
+    "Added official Gradle distributionSha256Sum",
+    "Increased wrapper network timeout to 60000ms",
+    "Replaced template wrapper with SHA256-verified Gradle 9.2.1 wrapper; original retained under .tools/downloads",
+    "Disabled configuration cache for the initial technical probe",
+    "Normalized template README headings and trailing whitespace for the repository checkpoint"
+  ]
+}

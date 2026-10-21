@@ -1,0 +1,22 @@
+.tools/
+.gradle-user-home/
+**/.gradle/
+**/.build/
+**/build/
+**/run/
+**/runs/
+**/repo/
+.idea/
+*.iml
+*.hprof
+~$*.docx
+
+# Runtime files and local document tooling
+**/.minecraft/
+**/logs/
+**/crash-reports/
+**/__pycache__/
+*.py[cod]
+*.log
+.DS_Store
+Thumbs.db

@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-21",
+  "minecraft": "1.21.1",
+  "neoforge": "21.1.264",
+  "scope": "selected source regions only",
+  "regions": [
+    {
+      "artifact": "E:\\Dev\\RailgunMod\\platform-probes\\neoforge-1.21.1\\build\\moddev\\artifacts\\neoforge-21.1.264-sources.jar",
+      "member": "net/minecraft/server/level/ServerPlayer.java",
+      "sha256": "0b3d42bf1368bd1025afa810e9d8ff76939f96be90f926bcd6912690ee95258a",
+      "firstLine": 1434,
+      "lastLine": 1508,
+      "purpose": "Player restoration and clone hook"
+    },
+    {
+      "artifact": "E:\\Dev\\RailgunMod\\platform-probes\\neoforge-1.21.1\\build\\moddev\\artifacts\\neoforge-21.1.264-sources.jar",
+      "member": "net/minecraft/world/entity/Entity.java",
+      "sha256": "8e4d7b36eeea5de997d064ae7f9863d22b702eb650fd7eb22982ebdf76907839",
+      "firstLine": 1792,
+      "lastLine": 1811,
+      "purpose": "Attachment persistence in entity save"
+    },
+    {
+      "artifact": "E:\\Dev\\RailgunMod\\platform-probes\\neoforge-1.21.1\\build\\moddev\\artifacts\\neoforge-21.1.264-sources.jar",
+      "member": "net/minecraft/world/entity/Entity.java",
+      "sha256": "8e4d7b36eeea5de997d064ae7f9863d22b702eb650fd7eb22982ebdf76907839",
+      "firstLine": 1880,
+      "lastLine": 1894,
+      "purpose": "Attachment restore in entity load"
+    },
+    {
+      "artifact": "E:\\Dev\\RailgunMod\\platform-probes\\neoforge-1.21.1\\build\\moddev\\artifacts\\neoforge-21.1.264-sources.jar",
+      "member": "net/minecraft/world/entity/LivingEntity.java",
+      "sha256": "bdbca87d4e5d1eabf45597214c4027de319973d0b08e8d2041d147b36ac1bc26",
+      "firstLine": 1139,
+      "lastLine": 1186,
+      "purpose": "Damage validation and server event path"
+    },
+    {
+      "artifact": "E:\\Dev\\RailgunMod\\platform-probes\\neoforge-1.21.1\\build\\moddev\\artifacts\\neoforge-21.1.264-sources.jar",
+      "member": "net/minecraft/world/item/ItemStack.java",
+      "sha256": "ace64c8407e32e63183fca7ba7dff2523f3b01f300857c877ce8f2cb30ca9b6b",
+      "firstLine": 225,
+      "lastLine": 239,
+      "purpose": "Item data components"
+    },
+    {
+      "artifact": "E:\\Dev\\RailgunMod\\.gradle-user-home\\caches\\modules-2\\files-2.1\\net.neoforged\\neoforge\\21.1.264\\cf05631ad77db59cf409d78796e4574773310353\\neoforge-21.1.264-sources.jar",
+      "member": "net/neoforged/neoforge/attachment/AttachmentType.java",
+      "sha256": "6523656f878551c36b54297df3e7e5f0da7d111920f983b0c4c3079313de4984",
+      "firstLine": 221,
+      "lastLine": 243,
+      "purpose": "Death persistence policy"
+    },
+    {
+      "artifact": "E:\\Dev\\RailgunMod\\.gradle-user-home\\caches\\modules-2\\files-2.1\\net.neoforged\\neoforge\\21.1.264\\cf05631ad77db59cf409d78796e4574773310353\\neoforge-21.1.264-sources.jar",
+      "member": "net/neoforged/neoforge/network/registration/PayloadRegistrar.java",
+      "sha256": "13cb3618443703abdc3d4daf63a174ea599ee125ef2ee3fdeade636ff1fdab84",
+      "firstLine": 24,
+      "lastLine": 50,
+      "purpose": "Payload default thread and immutable registrar settings"
+    },
+    {
+      "artifact": "E:\\Dev\\RailgunMod\\.gradle-user-home\\caches\\modules-2\\files-2.1\\net.neoforged\\neoforge\\21.1.264\\cf05631ad77db59cf409d78796e4574773310353\\neoforge-21.1.264-sources.jar",
+      "member": "net/neoforged/neoforge/event/EventHooks.java",
+      "sha256": "1c537e46d8f486f398293423e89342acbc4f96f94b0d6fcd5fff007440ebb15b",
+      "firstLine": 601,
+      "lastLine": 625,
+      "purpose": "Player clone event dispatch; attachment copy internals not reviewed"
+    },
+    {
+      "artifact": "E:\\Dev\\RailgunMod\\.gradle-user-home\\caches\\modules-2\\files-2.1\\net.neoforged\\neoforge\\21.1.264\\cf05631ad77db59cf409d78796e4574773310353\\neoforge-21.1.264-sources.jar",
+      "member": "net/neoforged/neoforge/attachment/AttachmentType.java",
+      "sha256": "6523656f878551c36b54297df3e7e5f0da7d111920f983b0c4c3079313de4984",
+      "firstLine": 245,
+      "lastLine": 297,
+      "purpose": "Optional attachment synchronization API in pinned version"
+    },
+    {
+      "artifact": "E:\\Dev\\RailgunMod\\.gradle-user-home\\caches\\modules-2\\files-2.1\\net.neoforged\\neoforge\\21.1.264\\cf05631ad77db59cf409d78796e4574773310353\\neoforge-21.1.264-sources.jar",
+      "member": "net/neoforged/neoforge/attachment/AttachmentType.java",
+      "sha256": "6523656f878551c36b54297df3e7e5f0da7d111920f983b0c4c3079313de4984",
+      "firstLine": 58,
+      "lastLine": 80,
+      "purpose": "Synchronization default and configuration"
+    },
+    {
+      "artifact": "E:\\Dev\\RailgunMod\\.gradle-user-home\\caches\\modules-2\\files-2.1\\net.neoforged\\neoforge\\21.1.264\\cf05631ad77db59cf409d78796e4574773310353\\neoforge-21.1.264-sources.jar",
+      "member": "net/neoforged/neoforge/attachment/AttachmentHolder.java",
+      "sha256": "8a39c4a4cd669c60fc1a4666a4d4a4728af8724ad7aae48e1bafacb66bef1abe",
+      "firstLine": 92,
+      "lastLine": 134,
+      "purpose": "Synchronization triggering on setData"
+    }
+  ]
+}

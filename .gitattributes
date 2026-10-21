@@ -1,0 +1,17 @@
+* text=auto
+*.md text eol=lf
+*.json text eol=lf
+*.ps1 text eol=lf
+*.py text eol=lf
+*.java text eol=lf
+*.gradle text eol=lf
+*.properties text eol=lf
+*.yml text eol=lf
+*.bat text eol=crlf
+**/gradlew text eol=lf
+*.jar binary
+*.docx binary
+.gitattributes text eol=lf
+.gitignore text eol=lf
+*.txt text eol=lf
+*.toml text eol=lf
